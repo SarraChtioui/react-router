@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 20px;
+  cursor: pointer;
+}
+.card{
+	margin: 10px;
+}
+.cards{
+	margin: 100px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.search{
+	margin: 0 auto;
+}
